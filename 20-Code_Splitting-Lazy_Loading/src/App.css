@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.selected {
+  display: block;
+  margin: auto;
+  text-align: left; 
+  width: 300px;
+}

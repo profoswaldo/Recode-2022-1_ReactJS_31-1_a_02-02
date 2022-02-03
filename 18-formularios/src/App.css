@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+}
+
+form {
+  width: 320px;
+  padding: 50px;
+  background: #000;
+  border-radius: 5px;
+  border-top: 5px solid oldlace;
+  border-bottom: 5px solid oldlace;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: center;
+}
+
+body {
+  background-color: #FFFACD;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  color: #000;
+}
+
+button{
+  margin-left: 43%;
+  border-radius: 5px;
+  border-style: none;
+  cursor: pointer;
+}
+
+input{
+  width: 100%;
+}
+
+#email{
+  border-radius: 3px;
+  border-style: none;
+}
+
+#pwd{
+  border-radius: 3px;
+  border-style: none;
+}
